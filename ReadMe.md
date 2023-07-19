@@ -1,5 +1,5 @@
 # Olá eu sou o João Victor
-🔭 Sou estudante de Beckend<br>🌱Estou estudando Python<br>
+🔭 Sou estudante de Backend<br>🌱Estou estudando Python<br>
 
 
 # ✨Minha Stack:
